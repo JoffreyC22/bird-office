@@ -12,7 +12,7 @@ dépôt git (github/bitbucket/gitlab).
 Détails du projet
 
 ## Data :
-Utiliser l'objet JSON fournis dans le repository : `/data/products.json`
+Utiliser l'objet JSON fournis dans le repository : `/data/products.json`\
 Tu peux utiliser les images fournis dans le repository : `/data/images`
 
 Liste de produits :\
