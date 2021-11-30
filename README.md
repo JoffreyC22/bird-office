@@ -13,7 +13,7 @@ Détails du projet
 
 ## Data :
 Utiliser l'objet JSON fournis dans le repository : `/data/products.json`\
-Tu peux utiliser les images fournis dans le repository : `/data/images`
+Tu peux utiliser les images fournies dans le repository : `/images`
 
 Liste de produits :\
 Faire une intégration responsive avec `bootstrap` ou en `css natif`\
